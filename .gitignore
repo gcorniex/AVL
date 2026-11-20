@@ -221,3 +221,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Java ---
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# --- IDEs / Editores ---
+.vscode/
+.idea/
+*.iml
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
