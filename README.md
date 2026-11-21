@@ -107,4 +107,7 @@ Requiere Python 3.6 o superior. No necesita instalar librerías.
 ```
 
 ## Autores
-Santiago, Andrés, Sofía y Gabriela.
+Ana Sofía Paiva - 20252020035
+Gabriela Cortes - 20252020101
+Santiago Bohórquez - 20252020111
+Andres De La Puente - 20252020121
